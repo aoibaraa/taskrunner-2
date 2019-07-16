@@ -178,3 +178,44 @@ a:hover {
 .btn:hover {
     color: black;
 }
+
+/* Services */
+    
+
+.box {
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.box-title {
+    margin: 20px 0 12px 0;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: $font-header;
+}
+
+.box-text {
+    font-size: 16px;
+    font-family: $font-header;
+    color: #878686;
+}
+
+
+.box-content {
+    text-align: center;
+}
+
+
+.box-number {
+    font-size: 55px;
+    line-height: 1;
+    color: #FED136;
+    border: 2px solid #FED136;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
